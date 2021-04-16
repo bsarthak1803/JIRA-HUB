@@ -1,0 +1,131 @@
+#rqm, #testcase, #jno , #techd, #grepo, #glocal {
+    width: 300px;
+    margin: 10px;
+    margin-right: 50px;
+    font-size: 15px;
+    border-width: 1px;
+    border-style: solid;
+}
+
+#heading {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 685px;
+    margin-top: 40px;
+}
+
+.InputForm {
+    margin-top: 20px;
+}
+
+.ButtonAdd {
+    width: 100px;
+}
+
+#mergerow {
+    padding-left: 425px;
+    padding-top: 20px;
+}
+
+#jiratable {
+    margin-left: 18%;
+}
+
+.DisplayTable {
+    padding-top: 40px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+th {
+    font-size: 18px;
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    padding: 8px;
+}
+
+.ButtonDelete {
+    background-color: crimson;
+}
+
+.ButtonSubmit {
+    width: 100px;
+}
+
+
+.DisplayTable p {
+    height: 30px;
+    margin-bottom: 30px;
+}
+
+#label {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+
+#small {
+    width:200px;
+    margin-bottom: 10px;
+    font-size: smaller;
+    border: none;
+    align-self: center;
+}
+
+
+.login-div {
+    margin-left: 25%;
+    margin-bottom: 1%;
+}
+
+.login-type {
+    margin-top: 5%;
+    margin-left: 25%;
+}
+
+.root {
+      width: 500px;
+      height: 400px;
+      margin-left: 34%;
+      padding-top: 50px;
+}
+
+#label Button {
+ width: 925px;
+}
+
+.paper_main {
+    width: 1000px;
+    padding-bottom: 20px;
+    margin-left: 18%;
+    padding-top: 50px;
+}
+
+#head {
+        font-size: 16px;
+        font-weight: bold;
+        font-family: Arial, Helvetica, sans-serif;
+}
+
+.Display_button {
+    margin-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 50px;
+}
+
+#navigator {
+    position: fixed;
+    bottom: 10px;
+    left: 1430px;
+}
+
+.div-DI_tab {
+    padding-left: 20%;
+}
+
+.paper-DI_tab {
+    width: 1000px;
+    padding-bottom: 50px;
+    margin-left: 20%;
+    padding-top: 50px;
+}

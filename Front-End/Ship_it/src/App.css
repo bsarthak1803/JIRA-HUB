@@ -1,0 +1,19 @@
+.App-logo {
+  max-width: 100%;
+  height: auto;
+  
+}
+
+
+.App-header {
+  padding-top: 10px;
+  padding-bottom: 7px;
+  padding-left: 0.3%;  
+  top:0;
+  width: 100%;
+  overflow: hidden;
+  height:60px;
+  color: white;
+  background:#0079BE;
+  text-align: left;
+}
